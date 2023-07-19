@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+          padding: 0%;
+          margin: 0%;
+          box-sizing: border-box;
+        }
+        #box{
+          height: 100vh;
+          width: 100%;
+          
+        
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        #viewmodel{
+          height: 100%;
+          width: 100%;
+          background-color: white;
+        }
+      </style>
+</head>
+<body>
+ 
+    <div id="box">
+        <model-viewer     id="viewmodel" src="1stFloor.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+            <button class="Hotspot" slot="hotspot-1" data-surface="92 0 5 8 11 0.399 0.437 0.165" data-visibility-attribute="visible">
+                <div class="HotspotAnnotation">SJ-LAB</div>
+            </button>
+            <div class="progress-bar hide" slot="progress-bar">
+                <div class="update-bar"></div>
+            </div>
+        
+            <div id="ar-prompt">
+                <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+            </div>
+        </model-viewer>
+        
+</div>
+<script>
+    document.write("Model is being loaded!")
+</script>
+</body>
+</html>

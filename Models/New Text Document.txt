@@ -1,0 +1,68 @@
+<model-viewer src="1stFloor.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" environment-image="spruit_sunrise_1k_HDR.hdr">
+    <button class="Hotspot" slot="hotspot-1" data-position="25.151979765465086m 7.754611208622222m 92.31316039293091m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Arch-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-position="-34.814386442123904m 7.9137896980383555m 92.35003758158511m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">102-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="-91.93930369661089m 6.204545603992722m 92.08826849895533m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">103-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="-146.77756776457645m 11.449754519039415m 92.14150275227723m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-104</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="-190.8997845947183m 10.384897077359888m 91.41606725588575m" data-normal="0.01979335546764081m 0m -0.9998040923497621m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BOYS WASHRROM</div>
+    </button><button class="Hotspot" slot="hotspot-6" data-position="-193.57846295166163m 7.717410360962669m 25.82110066201456m" data-normal="-0.01979335546764081m 0m 0.9998040923497621m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BOYS WASHRROM</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="-141.67944674369593m 13.47871165706761m 25.951027121650217m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-105</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="-94.32709378617116m 10.971987335132805m 26.672611566509197m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-106</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-position="-33.748963269214705m 7.660271006911453m 27.964457189097065m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-107</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-position="12.870954992442101m 8.717422718409777m 28.671541528487964m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-108</div>
+    </button><button class="Hotspot" slot="hotspot-11" data-position="175.37417947025833m 8.990368102247324m 29.49369610290372m" data-normal="-0.010767304410354136m 0m 0.999942030897659m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">lIBRARY </div>
+    </button><button class="Hotspot" slot="hotspot-14" data-position="361.48440378371254m 10.228526421589944m 25.923336670375026m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">LAW LIBRARY</div>
+    </button><button class="Hotspot" slot="hotspot-15" data-position="446.78646226443533m 9.2765704272463m 26.678822522507463m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">LAW MOOT ROOM</div>
+    </button><button class="Hotspot" slot="hotspot-16" data-position="504.72811665975513m 2.046842603369117m 27.901709708911874m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-112</div>
+    </button><button class="Hotspot" slot="hotspot-17" data-position="558.7312621013674m 7.0368472092027785m 28.755445836372225m" data-normal="-0.019793355467640814m 0m 0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FICALITY</div>
+    </button><button class="Hotspot" slot="hotspot-18" data-position="605.5554517793319m 2.9616149661934816m 30.40094527524938m" data-normal="-0.012855553590013745m 0m 0.9999173639565894m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-20" data-position="604.5584358006818m 12.814909265773707m 96.10800176585775m" data-normal="0.012855553590013745m 0m -0.9999173639565894m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-21" data-position="535.002021892234m 7.7699885710927665m 95.30657899848224m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-114</div>
+    </button><button class="Hotspot" slot="hotspot-23" data-position="490.0608423722617m 12.190668554932449m 95.38790417685372m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-115</div>
+    </button><button class="Hotspot" slot="hotspot-24" data-position="426.16741485798195m 17.101476563538917m 95.10611640073395m" data-normal="0.0029587427078783687m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">RM-116</div>
+    </button><button class="Hotspot" slot="hotspot-25" data-position="355.03954682691364m 14.596205256074m 94.60743021649563m" data-normal="0.019793355467640814m 0m -0.9998040923497622m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">ORIC</div>
+    </button><button class="Hotspot" slot="hotspot-26" data-position="90.51757433390748m 12.904721511231234m 161.5615715414396m" data-normal="0.9998582765711799m 0m -0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">IT-CENTER</div>
+    </button><button class="Hotspot" slot="hotspot-27" data-position="122.25029842346885m 7.415358935607946m 92.28070319096149m" data-normal="0.002958742707878368m 0m -0.999995622911215m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">GP-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-28" data-position="212.13091730611706m 11.300755789644935m 160.69523434477884m" data-normal="0.9998582765711799m 0m -0.016835283547065705m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">SJ-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-29" data-position="146.23258595967638m 12.01236437422898m 266.08071165904994m" data-normal="0.9998582765711799m 0m -0.0168352835470657m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-30" data-position="209.209777525183m 17.003733842635217m 264.601950712168m" data-normal="0.9998582765711799m 0m -0.0168352835470657m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-31" data-position="209.62267062657077m 9.16417959122758m 315.68162040304844m" data-normal="-0.99985827657118m 0m 0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">SG-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-32" data-position="208.21664524635247m 11.161722864575113m 406.13595449450276m" data-normal="-0.9998582765711799m 0m 0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">AK-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-33" data-position="147.8266907049067m 6.709808951580472m 494.8461605515537m" data-normal="0.9998582765711799m 0m -0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">DEPARTMENT OF IT</div>
+    </button><button class="Hotspot" slot="hotspot-34" data-position="147.42962731912078m 8.848842988760723m 370.2839039482429m" data-normal="0.9998582765711799m 0m -0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">IT-LAB</div>
+    </button><button class="Hotspot" slot="hotspot-35" data-position="146.79229086544004m 9.84822983723056m 295.00553360603084m" data-normal="0.99985827657118m 0m -0.016835283547065708m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">LP-LAB</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>

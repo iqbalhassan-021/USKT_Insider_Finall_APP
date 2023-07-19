@@ -1,0 +1,78 @@
+<model-viewer src="2ndFloor.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" environment-image="spruit_sunrise_1k_HDR.hdr">
+    <button class="Hotspot" slot="hotspot-1" data-surface="52 0 5 2 8 0.231 0.411 0.359" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">HOD MATH</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-surface="23 0 5 2 8 0.551 0.077 0.373" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">DEPT MATH</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-surface="171 0 0 1 3 0.338 0.493 0.169" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">203</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-surface="45 0 21 18 12 0.067 0.562 0.371" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BOYS - WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-surface="12 0 21 18 12 0.505 0.014 0.481" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BOYS - WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-6" data-surface="29 0 5 2 8 0.596 0.162 0.241" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">202</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-surface="39 0 5 2 8 0.409 0.243 0.348" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">201</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-surface="56 0 5 2 8 0.349 0.121 0.530" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FECULITY OF SCINECES</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-surface="14 0 5 2 8 0.432 0.047 0.521" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">204</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-surface="11 0 5 2 8 0.497 0.233 0.270" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">205</div>
+    </button><button class="Hotspot" slot="hotspot-11" data-surface="1 0 5 2 8 0.194 0.615 0.191" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BIO LAB</div>
+    </button><button class="Hotspot" slot="hotspot-12" data-surface="172 0 0 1 3 0.779 0.070 0.150" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">ZIOLOGY LAB</div>
+    </button><button class="Hotspot" slot="hotspot-13" data-surface="108 0 5 2 8 0.459 0.186 0.354" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">HOD BIO/CHEM</div>
+    </button><button class="Hotspot" slot="hotspot-14" data-surface="172 0 0 3 2 0.636 0.138 0.226" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BIO LAB/ HOD</div>
+    </button><button class="Hotspot" slot="hotspot-15" data-surface="125 0 5 2 8 0.623 0.243 0.134" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">CHEM LAB</div>
+    </button><button class="Hotspot" slot="hotspot-16" data-surface="116 0 5 8 11 0.561 0.404 0.035" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">212</div>
+    </button><button class="Hotspot" slot="hotspot-17" data-surface="128 0 5 8 11 0.411 0.448 0.141" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">213</div>
+    </button><button class="Hotspot" slot="hotspot-18" data-surface="132 0 5 8 11 0.599 0.309 0.092" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FECULITY</div>
+    </button><button class="Hotspot" slot="hotspot-19" data-surface="135 0 21 12 15 0.464 0.233 0.303" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE FECULITY WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-20" data-surface="144 0 5 2 8 0.421 0.137 0.442" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">MALE WASHROOM</div>
+    </button><button class="Hotspot" slot="hotspot-21" data-surface="155 0 5 2 8 0.200 0.158 0.642" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">MALE FECULITY</div>
+    </button><button class="Hotspot" slot="hotspot-22" data-surface="162 0 5 2 8 0.420 0.102 0.478" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">214</div>
+    </button><button class="Hotspot" slot="hotspot-23" data-surface="153 0 5 8 11 0.248 0.726 0.026" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">215</div>
+    </button><button class="Hotspot" slot="hotspot-24" data-surface="167 0 21 18 12 0.307 0.595 0.099" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">BIO LAB/CHEM LAB</div>
+    </button><button class="Hotspot" slot="hotspot-25" data-surface="86 0 5 2 8 0.302 0.187 0.511" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">CHEM LAB</div>
+    </button><button class="Hotspot" slot="hotspot-26" data-surface="84 0 21 18 12 0.309 0.210 0.481" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">208</div>
+    </button><button class="Hotspot" slot="hotspot-27" data-surface="83 0 21 12 15 0.342 0.430 0.228" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">207</div>
+    </button><button class="Hotspot" slot="hotspot-28" data-surface="82 0 21 18 12 0.388 0.091 0.522" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">206</div>
+    </button><button class="Hotspot" slot="hotspot-29" data-surface="100 0 5 8 11 0.499 0.385 0.116" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">210</div>
+    </button><button class="Hotspot" slot="hotspot-30" data-surface="101 0 5 2 8 0.444 0.166 0.389" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">209</div>
+    </button><button class="Hotspot" slot="hotspot-31" data-surface="96 0 5 2 8 0.259 0.016 0.726" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE WASHRROM</div>
+    </button><button class="Hotspot" slot="hotspot-32" data-surface="68 0 21 18 12 0.480 0.166 0.354" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE WASHRROM</div>
+    </button><button class="Hotspot" slot="hotspot-33" data-surface="107 0 21 12 15 0.474 0.313 0.213" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">FEMALE FECULITY</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
